@@ -15,7 +15,8 @@
 
 ## Objetivos
 
-- [LOGRAR TODO LO APRENDIDO EN EL MODULO UNO ]: Manejo de arrays y Syntactic Sugar
+- [LOGRAR TODO LO APRENDIDO EN EL MODULO UNO]:
+- Manejo de arrays y Syntactic Sugar
 - asincronismo y promesas
 - módulo HTTP
 - framework Express
