@@ -1,16 +1,19 @@
 # trailerflix3
 # PREPARA LOS POCHOCLOS QUE LAS CHICAS BACKEND SE VIENEN CON TODO 
 
-## SOMOS GRUPO 3 
+## SOMOS GRUPO 3 # Hi, I'm PROFES! 👋
 
 ![LOGO BACKEND GRUPO 3](https://github.com/antomacri/trailerflix3/assets/112986244/2bc0ee33-6520-4ebc-8054-d91826461ac8)
 
 ¡Bienvenidos a TRAILERFLIX3! Somos un grupo apasionado por BACKEND. Nuestra misión es llegar a ser buenas programando y crear paginas divertidas si queres conocer sobre nosotras ¡estás en el lugar correcto!
 
-## Integrantes
+## Autores
 
-- [ANTONELLA]([enlace-al-perfil-de-git](https://github.com/antomacri))
-- [LUDMILA]([enlace-al-perfil-de-git](https://github.com/LudmilaRamella ))
+
+- [@Ludmila](https://github.com/LudmilaRamella)
+- [@antomacri](https://github.com/antomacri)
+
+
 
 
 ## Objetivos
