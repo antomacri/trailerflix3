@@ -1,7 +1,7 @@
 # trailerflix3
 # PREPARA LOS POCHOCLOS QUE LAS CHICAS BACKEND SE VIENEN CON TODO 
 
-## SOMOS GRUPO 3 # Hi, I'm PROFES! 👋
+## SOMOS GRUPO 3 # Hi, PROFES! 👋
 
 ![LOGO BACKEND GRUPO 3](https://github.com/antomacri/trailerflix3/assets/112986244/2bc0ee33-6520-4ebc-8054-d91826461ac8)
 
