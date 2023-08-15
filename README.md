@@ -3,6 +3,8 @@
 
 ## SOMOS GRUPO 3 
 
+![LOGO BACKEND GRUPO 3](https://github.com/antomacri/trailerflix3/assets/112986244/2bc0ee33-6520-4ebc-8054-d91826461ac8)
+
 ¡Bienvenidos a TRAILERFLIX3! Somos un grupo apasionado por BACKEND. Nuestra misión es llegar a ser buenas programando y crear paginas divertidas si queres conocer sobre nosotras ¡estás en el lugar correcto!
 
 ## Integrantes
